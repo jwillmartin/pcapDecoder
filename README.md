@@ -20,11 +20,12 @@ sudo ./install_dependencies.sh
 
 ## Usage
 
-1. Execute the script:
+1. Move your PCAP file to this directory.
+2. Execute the script:
 ```
 ./pcapDecoder.sh
 ```
-2. Follow the on-screen prompts.
+3. Follow the on-screen prompts.
 
 ### Version
 Version 1.1 – September 3, 2024
